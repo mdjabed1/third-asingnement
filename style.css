@@ -1,9 +1,35 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* gootle fonts  */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@1&display=swap');
+</style>
+body{
+    font-family: 'Work Sans', sans-serif;
+}
 #baground-color{
     background-color: #264653;
 }
+#text-color{
+    color: #E0E0E0;
+}
+#size-image{
+    width: 149px;
+    width: 149px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.star-icon{
+    margin-left: -31px;
+}
+
+
+
+
+
+
 #grayscales{
     filter: grayscale(1);
     -webkit-filter: grayscale(1);
