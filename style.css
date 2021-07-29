@@ -1,8 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 #baground-color{
     background-color: #264653;
-}
-#button{
-    background-color: #E76F51;
 }
 #grayscales{
     filter: grayscale(1);
@@ -11,4 +11,7 @@
 #grayscale{
     filter: grayscale(1);
     -webkit-filter: grayscale(1);
+}
+#custom-color{
+    color: #E76F51;
 }
